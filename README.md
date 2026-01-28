@@ -1,4 +1,4 @@
-# ♟️ Chess Game - Pure JavaScript Implementation
+# ♟️ ChessX - Pure JavaScript Implementation
 
 A fully functional, interactive chess game built with vanilla JavaScript, HTML5, and CSS3. No frameworks, no dependencies - just pure web technologies.
 
